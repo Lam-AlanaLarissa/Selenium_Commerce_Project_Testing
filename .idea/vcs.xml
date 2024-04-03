@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/selenium-webdriver-java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/selenium-webdriver-java/src/test/java/BAITAP" vcs="Git" />
   </component>
 </project>
